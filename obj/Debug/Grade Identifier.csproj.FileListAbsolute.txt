@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Grade Identifier\Grade Identifier\bin\Debug\Grade Identifier.exe.config
+C:\Users\DELL\source\repos\Grade Identifier\Grade Identifier\bin\Debug\Grade Identifier.exe
+C:\Users\DELL\source\repos\Grade Identifier\Grade Identifier\bin\Debug\Grade Identifier.pdb
+C:\Users\DELL\source\repos\Grade Identifier\Grade Identifier\obj\Debug\Grade Identifier.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Grade Identifier\Grade Identifier\obj\Debug\Grade Identifier.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Grade Identifier\Grade Identifier\obj\Debug\Grade Identifier.exe
+C:\Users\DELL\source\repos\Grade Identifier\Grade Identifier\obj\Debug\Grade Identifier.pdb
